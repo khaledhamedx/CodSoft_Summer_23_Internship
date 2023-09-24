@@ -8,10 +8,6 @@ int main()
 {
 		char sign = 'X';
 		int choice,enter_again, player = 1;
-		/*
-		cout << "\t\t TIC TAC TOE GAME \t\t" << endl;
-		cout << "\t     Player 1 (X) , Player 2 (O)" << endl << endl << endl;
-		*/
 		while (1)
 		{
 		system("cls");
@@ -90,7 +86,6 @@ int main()
 void grid()
 {
 	system("cls");
-	//	system("cls");
 	cout << "\033[31m" << "\t\t TIC TAC TOE GAME \t\t" << "\033[0m" << endl; //RED
 	cout << "\033[33m" << "\t     Player 1 (X) , Player 2 (O)" << "\033[0m" << endl;//YELLOW
 	cout << "\033[31m" << "\t   DEVELOPED BY KHALED AHMED HAMED" << "\033[0m" << endl << endl << endl;//YELLOW
