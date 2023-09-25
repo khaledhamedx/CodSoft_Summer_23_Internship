@@ -1,4 +1,4 @@
-# SoftCode Summer'23 Internship
+# CodSoft Summer'23 Internship
 ## [First task - Number Guessing Game](https://github.com/khaledhamedx/SoftCode-Summer-23-Internship/blob/master/Task%201%20-%20NUMBER%20GUESSING%20Game/NUMBER%20GUESSING%20Game.cpp)
 This task is building a guessing game that makes the user choose a range of guessing , She/He guesses till guess become correct 
 ## [Second task - Simple Calculator](https://github.com/khaledhamedx/SoftCode-Summer-23-Internship/blob/master/Task%202%20-%20SIMPLE%20CALCULATOR/SIMPLE%20CALCULATOR.cpp)
